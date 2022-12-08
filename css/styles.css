@@ -73,3 +73,12 @@ main > .tagline {
 	width: 2.65rem;
 	height: 2.65rem;
 }
+#imgKJ {
+	position: absolute;
+	width: 350px;
+	height: 150px;
+	justify-content: center;
+	left: 800px;  
+	top: 200px; 
+
+}
